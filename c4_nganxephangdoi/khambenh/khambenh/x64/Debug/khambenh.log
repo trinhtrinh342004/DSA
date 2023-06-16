@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\c4_nganxephangdoi\khambenh\khambenh\main.cpp(114,82): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\c4_nganxephangdoi\khambenh\khambenh\main.cpp(115,73): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\c4_nganxephangdoi\khambenh\khambenh\main.cpp(115,73): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\c4_nganxephangdoi\khambenh\khambenh\main.cpp(115,73): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+  khambenh.vcxproj -> C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\c4_nganxephangdoi\khambenh\x64\Debug\khambenh.exe

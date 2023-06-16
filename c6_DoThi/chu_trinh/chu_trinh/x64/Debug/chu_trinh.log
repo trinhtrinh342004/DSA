@@ -1,0 +1,3 @@
+﻿  chu_trinh.cpp
+D:\code\c++\dsa\c6_DoThi\chu_trinh\chu_trinh\chu_trinh.cpp(42): warning C4715: 'DFS': not all control paths return a value
+  chu_trinh.vcxproj -> D:\code\c++\dsa\c6_DoThi\chu_trinh\x64\Debug\chu_trinh.exe

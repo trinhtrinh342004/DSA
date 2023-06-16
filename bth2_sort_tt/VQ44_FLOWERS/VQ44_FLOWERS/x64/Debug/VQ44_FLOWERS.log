@@ -1,0 +1,3 @@
+﻿  maincpp.cpp
+C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\bth2_sort_tt\VQ44_FLOWERS\VQ44_FLOWERS\maincpp.cpp(34,21): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  VQ44_FLOWERS.vcxproj -> C:\Users\Admin\OneDrive\Documents\visualStudioCommunity2022\uit\dsa\bth2_sort_tt\VQ44_FLOWERS\x64\Debug\VQ44_FLOWERS.exe
